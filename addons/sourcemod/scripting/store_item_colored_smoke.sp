@@ -4,7 +4,6 @@
 #include <sdkhooks>
 #include <colors>
 #include <cstrike>
-#include <zombiereloaded>
 
 #include <store>
 #include <zephstocks>
